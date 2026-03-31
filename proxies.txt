@@ -2,7 +2,7 @@
 # profile-update-interval: 5
 # Date/Time: 2026-03-31 / 14:57 (Moscow)
 # Количество: 150
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+# For more info and VPN-configs - https://github.com/web-pentest
 
 vless://0fc75643-70ed-4818-a57e-a589234742f7@at4.darknet.run:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=14BLTnoHpPJF9pd9sc6eC3skMJnXFS_caUFQjA1ayyU&sid=a1b223d4&sni=gmail.com&path=&host=&spx=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://264fa852-1ee7-409b-b78e-02de38ef3a02@at4.darknet.run:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=14BLTnoHpPJF9pd9sc6eC3skMJnXFS_caUFQjA1ayyU&sid=a1b223d4&sni=gmail.com&path=&host=&spx=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
