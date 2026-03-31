@@ -31,7 +31,7 @@ https://github.com/throneproj/Throne
 
 ### 2. Получи прокси
 ```
-curl -o proxies.txt https://raw.githubusercontent.com/твой-ник/DarkVPN/main/proxies.txt
+curl -o proxies.txt https://raw.githubusercontent.com/web-pentest/DarkVPN/main/proxies.txt
 ```
 или просто нажми **Code → Download ZIP**
 
@@ -65,7 +65,7 @@ curl -o proxies.txt https://raw.githubusercontent.com/твой-ник/DarkVPN/ma
 
 ## 🔄 Как обновить
 ```
-curl -o proxies.txt https://raw.githubusercontent.com/твой-ник/DarkVPN/main/proxies.txt
+curl -o proxies.txt https://raw.githubusercontent.com/web-pentest/DarkVPN/main/proxies.txt
 ```
 
 Импортируй заново в Throne — старые останутся, новые добавятся.
