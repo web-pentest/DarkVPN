@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/твой-ник/DarkVPN">
-  <img src="https://img.shields.io/badge/proxies-20%2B-blue">
+  <img src="https://img.shields.io/github/last-commit/web-pentest/DarkVPN">
+  <img src="https://img.shields.io/badge/proxies-140%2B-blue">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey">
   <img src="https://img.shields.io/badge/license-MIT-green">
 </p>
