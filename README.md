@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/web-pentest/DarkVPN">
-  <img src="https://img.shields.io/badge/proxies-140%2B-blue">
+  <img src="https://img.shields.io/badge/proxies-400%2B-blue">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey">
   <img src="https://img.shields.io/badge/license-MIT-green">
 </p>
@@ -59,7 +59,7 @@ curl -o proxies.txt https://raw.githubusercontent.com/web-pentest/DarkVPN/main/p
 | 🇯🇵 Япония | ∞ |
 | 🏴‍☠️ Прочее | ∞ |
 
-> Всего **140+** прокси, обновляются вручную
+> Всего **400+** прокси, обновляются вручную
 
 ---
 
