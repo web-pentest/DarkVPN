@@ -5,7 +5,7 @@
 <h1 align="center">🌑 DarkVPN</h1>
 <p align="center">
   <strong>Прорви блокировки с Throne</strong><br>
-  20+ прокси. Один файл. Твоя свобода.
+  400+ прокси. Один файл. Твоя свобода.
 </p>
 
 <p align="center">
