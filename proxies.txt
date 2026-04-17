@@ -1,6 +1,6 @@
 # profile-title: 🏴‍☠️ ЧЕРНЫЕ СПИСКИ 🏴‍☠️ BLACK LISTS | Proxies - 140-400+
 # profile-update-interval: 5 day
-# Date/Time: 2026-04-09 / 16:03 (Moscow)
+# Date/Time: 2026-04-17 / 16:03 (Moscow)
 # Количество: 140+
 # info VPN-configs - https://github.com/web-pentest
 
