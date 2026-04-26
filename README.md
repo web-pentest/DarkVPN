@@ -124,4 +124,15 @@
 
 ---
 
+## 🔗 Интеграция с GitHub
+
+Этот проект использует возможности GitHub для:
+- Распространения прокси-файлов через [GitHub Pages](https://web-pentest.github.io/DarkVPN) и `raw`-ссылки.
+- Обратной связи и сообщений об ошибках через [Issues](https://github.com/web-pentest/DarkVPN/issues).
+- Прозрачности изменений — вся история обновлений в [коммитах](https://github.com/web-pentest/DarkVPN/commits/main).
+
+Проект является частью экосистемы GitHub и участвует в [GitHub Developer Program](https://docs.github.com/ru/integrations/concepts/github-developer-program).
+
+---
+
 🐙 **Создано [web-pentest](https://github.com/web-pentest)**
