@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/web-pentest/DarkVPN">
-  <img src="https://img.shields.io/badge/proxies-400%2B-blue">
+  <img src="https://img.shields.io/badge/proxies-150/400%2B-blue">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20iOS-lightgrey">
   <img src="https://img.shields.io/badge/license-MIT-green">
 </p>
