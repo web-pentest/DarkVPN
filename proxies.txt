@@ -1,7 +1,7 @@
 # profile-title: 🏴‍☠️ ЧЕРНЫЕ СПИСКИ 🏴‍☠️ BLACK LISTS | Proxies - 140-400+
 # profile-update-interval: 5 day
 # Date/Time: 2026-05-19 / 18:57 (Moscow)
-# Количество: 200+
+# Количество: 202+
 # info VPN-configs - https://github.com/web-pentest
 
 vless://71YSnbgp2vMtQ2jf9O9tqU@72.56.34.153:443?encryption=none&security=tls&sni=ee5.alice&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
