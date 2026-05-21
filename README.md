@@ -40,7 +40,7 @@
 ## ⚡ Быстрый старт
 
 ### 1. Скачай клиент
-- **Windows**: [Throne](https://github.com/throneproj/Throne)
+- **Windows**: [Throne](https://github.com/throneproj/Throne/releases)
 - **Android / iOS**: [Hiddify](https://github.com/hiddify/hiddify-next/releases)
 
 ### 2. Получи прокси
